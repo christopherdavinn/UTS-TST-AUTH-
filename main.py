@@ -18,11 +18,11 @@ ACCESS_TOKEN_EXPIRE_MINUTES = 30
 
 
 fake_users_db = {
-    "johndoe": {
+    "asdf": {
         "username": "asdf",
         "full_name": "davin",
         "email": "davin@example.com",
-        "hashed_password": "$2b$12$EixZaYVK1fsbw1ZfbX3OXePaWxn96p36WQoeG6Lruj3vjPGga31lW",
+        "hashed_password": "$2b$12$qrZNQV4N/75hKCUuGeZL/OaB.SF9waIlJOPpW8pXATcoFHVcIGcdi",
         "disabled": False,
     }
 }
